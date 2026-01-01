@@ -1,4 +1,4 @@
-<img width="945" height="993" alt="image" src="https://github.com/user-attachments/assets/530d4650-4c73-43aa-a670-8958840f77e7" /># Déploiement Zabbix conteneurisé sur AWS - Monitoring hybride Linux & Windows
+# Déploiement Zabbix conteneurisé sur AWS - Monitoring hybride Linux & Windows
 
 Projet réalisé par **Douaa Mouyassir**  
 Encadrant : Prof. Azeddine KHIAT  
